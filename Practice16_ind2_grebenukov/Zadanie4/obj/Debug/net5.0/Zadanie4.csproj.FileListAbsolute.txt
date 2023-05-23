@@ -1,0 +1,16 @@
+C:\Users\305-9\source\repos\Zadanie4\bin\Debug\net5.0\Zadanie4.exe
+C:\Users\305-9\source\repos\Zadanie4\bin\Debug\net5.0\Zadanie4.deps.json
+C:\Users\305-9\source\repos\Zadanie4\bin\Debug\net5.0\Zadanie4.runtimeconfig.json
+C:\Users\305-9\source\repos\Zadanie4\bin\Debug\net5.0\Zadanie4.runtimeconfig.dev.json
+C:\Users\305-9\source\repos\Zadanie4\bin\Debug\net5.0\Zadanie4.dll
+C:\Users\305-9\source\repos\Zadanie4\bin\Debug\net5.0\ref\Zadanie4.dll
+C:\Users\305-9\source\repos\Zadanie4\bin\Debug\net5.0\Zadanie4.pdb
+C:\Users\305-9\source\repos\Zadanie4\obj\Debug\net5.0\Zadanie4.csproj.AssemblyReference.cache
+C:\Users\305-9\source\repos\Zadanie4\obj\Debug\net5.0\Zadanie4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\305-9\source\repos\Zadanie4\obj\Debug\net5.0\Zadanie4.AssemblyInfoInputs.cache
+C:\Users\305-9\source\repos\Zadanie4\obj\Debug\net5.0\Zadanie4.AssemblyInfo.cs
+C:\Users\305-9\source\repos\Zadanie4\obj\Debug\net5.0\Zadanie4.csproj.CoreCompileInputs.cache
+C:\Users\305-9\source\repos\Zadanie4\obj\Debug\net5.0\Zadanie4.dll
+C:\Users\305-9\source\repos\Zadanie4\obj\Debug\net5.0\ref\Zadanie4.dll
+C:\Users\305-9\source\repos\Zadanie4\obj\Debug\net5.0\Zadanie4.pdb
+C:\Users\305-9\source\repos\Zadanie4\obj\Debug\net5.0\Zadanie4.genruntimeconfig.cache
